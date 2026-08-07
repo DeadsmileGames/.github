@@ -1,8 +1,8 @@
 <img src="./logo.png" align="left" width="200"/>
 
-### `DEADSMILE Game Studio`
+### `DEADSMILE`
 
-Experience tranquility while browsing the internet with Zen! Our mission is to give you a perfect balance for speed, privacy and productivity.
+An indie game studio ready for unexpected adventures.
 
 <a href="https://luxjson.is-a.dev/">Developer Website</a> ·
 <a href="https://github.com/teamdeadsmile">All projects</a> ·
