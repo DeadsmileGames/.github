@@ -1,4 +1,4 @@
-<img src="./logo.png" align="left" width="150"/>
+<img src="./logo.jpg" align="left" width="150"/>
 
 ### `DEADSMILE`
 
